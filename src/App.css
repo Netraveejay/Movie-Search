@@ -1,7 +1,7 @@
 /* App Container */
 .app {
   min-height: 100vh;
-  background-color: #1c1c1c; /* dark but not pitch black */
+  background-color: #1c1c1c; 
   color: #ffffff;
   padding: 30px;
   font-family: 'Poppins', sans-serif;
@@ -40,7 +40,7 @@ button {
   font-size: 16px;
   border: none;
   cursor: pointer;
-  background-color: #d81f26; /* cinematic red accent */
+  background-color: #d81f26; 
   color: white;
   font-weight: 500;
   border-radius: 0 6px 6px 0;
