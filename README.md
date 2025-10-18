@@ -16,7 +16,7 @@ A simple and responsive React app that lets users search for movies by name usin
 
 ### 💡 How It Works
 
-Type a movie name in the search bar and hit **Search** — the app fetches data from the OMDb API and displays matching results instantly 🎞️
+Type a movie name in the search bar and hit **Search** - the app fetches data from the OMDb API and displays matching results instantly 🎞️
 
 ### 📸 Preview
 
