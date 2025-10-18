@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import "./App.css"; // styling (we’ll add later)
+import "./App.css"; 
 
 function App() {
   const [query, setQuery] = useState(""); // user input
   const [movies, setMovies] = useState([]); // search results
   const [error, setError] = useState(""); // handle errors/no results
 
-  const API_KEY = "f7a76a6"; // 🔑 replace with your OMDb key
+  const API_KEY = "f7a76a6"; 
 
   const searchMovies = async () => {
     if (!query) return;
